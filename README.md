@@ -36,7 +36,7 @@ The script in this repository is the same as in that setup, with English message
 ## Quick start
 
 ```bash
-git clone https://github.com/Githubtezla/adguard-vpn-docker-gateway.git
+git clone https://github.com/gittezla/adguard-vpn-docker-gateway.git
 cd adguard-vpn-docker-gateway
 ```
 
